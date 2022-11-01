@@ -33,7 +33,7 @@
  
 </p>
 <p align="center" display="inline-block">
-  <img src="https://img.shields.io/badge/Python-white?style=flat&logo=Sass&logoColor=3776AB"/>
+  <img src="https://img.shields.io/badge/Python-white?style=flat&logo=Python&logoColor=3776AB"/>
  <img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black"/>&nbsp;&nbsp;
 </p>
 
