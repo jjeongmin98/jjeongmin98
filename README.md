@@ -34,6 +34,9 @@
 </p>
 <p align="center" display="inline-block">
   <img src="https://img.shields.io/badge/Python-white?style=flat&logo=Python&logoColor=3776AB"/>
+  <img src="https://img.shields.io/badge/Python-white?style=flat&logo=Docker&logoColor=2496ED"/>
+  <img src="https://img.shields.io/badge/Python-white?style=flat&logo=Kubernetes&logoColor=326CE5"/>
+  <img src="https://img.shields.io/badge/Python-white?style=flat&logo=Amazon AWS&logoColor=232F3E"/>
  <img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black"/>&nbsp;&nbsp;
 </p>
 
