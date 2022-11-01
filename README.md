@@ -16,6 +16,8 @@
 
 <p align="center">
 📜 보유 자격증 📜
+     
+     
 </p>
 <p align="center">
 정보처리기사, 컴퓨터활용능력 1급, OCA, OCA    
@@ -28,8 +30,11 @@
 
 <p align="center" display="inline-block">
    💡 활용 언어 💡
+ 
+</p>
+<p align="center" display="inline-block">
   <img src="https://img.shields.io/badge/Python-white?style=flat&logo=Sass&logoColor=3776AB"/>
-  <img src="https://img.shields.io/badge/Notion-b4f5bd?style=flat&logo=Notion&logoColor=black"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black"/>&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black"/>&nbsp;&nbsp;
 </p>
 
 <!---
