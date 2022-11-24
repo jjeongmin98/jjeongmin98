@@ -20,7 +20,7 @@
      
 </p>
 <p align="center">
-정보처리기사, 컴퓨터활용능력 1급, OCA, OCA    
+정보처리기사, 컴퓨터활용능력 1급, OCA, OCA, 네트워크관리사2급  
 </p>
 
 <p align="center">
