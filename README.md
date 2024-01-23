@@ -33,7 +33,7 @@
 
 </p>
 
-포트 폴리오 : https://wobbly-flamingo-385.notion.site/Space-67b20994a3634fd99128b8d7f07eb3f6?pvs=4
+포트 폴리오 : https://jjeongmin.shop
 <p align="center" display="inline-block">
   <img src="https://img.shields.io/badge/Python-black?style=flat&logo=Python&logoColor=3776AB"/>
   <img src="https://img.shields.io/badge/Docker-white?style=flat&logo=Docker&logoColor=2496ED"/>
