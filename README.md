@@ -33,7 +33,7 @@
 
 </p>
 
-포트 폴리오 : https://jjeongmin.shop
+포트 폴리오 : https://jjeongmin98.shop
 <p align="center" display="inline-block">
   <img src="https://img.shields.io/badge/Python-black?style=flat&logo=Python&logoColor=3776AB"/>
   <img src="https://img.shields.io/badge/Docker-white?style=flat&logo=Docker&logoColor=2496ED"/>
