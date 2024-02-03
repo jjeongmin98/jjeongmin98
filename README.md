@@ -1,5 +1,5 @@
 <p align="center">
-    👋 welcome!! , I’m @jjeongmin98 👋
+    👋 welcome! , I’m @jjeongmin98 👋
 </p>
 
 <p align="center">
